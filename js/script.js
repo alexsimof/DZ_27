@@ -55,10 +55,6 @@ const week = {
 // console.log(Number(week))
 
 // task 2
- 
-
-
-
 
 
 function Library() {
@@ -108,6 +104,6 @@ library.addUser(new User('Sergey'))
 console.log(library)
 console.log(library.searchByName('1984'))
 
-// 
+// предлагаю разобрать решение этой задачи на уроке
 
 
